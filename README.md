@@ -24,5 +24,5 @@ I m a Third Year ECE student at Motilal Nehru National Institute of Technology, 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/anushka-srivastava-09b88762/"><img src="https://img.shields.io/badge/-Anushka%20Srivastava%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:anushkasrivastavajhs1999@gmail.com"><img src="https://img.shields.io/badge/-anushkasrivastavajhs1999@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="        mailto:anushkasrivastavajhs1999@gmail.com"><img src="https://img.shields.io/badge/-anushkasrivastavajhs1999@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
