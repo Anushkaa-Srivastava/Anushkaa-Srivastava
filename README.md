@@ -1,16 +1,35 @@
-### Hi there 👋
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> Hi, I'm Anushka Srivastava</h1>
 
-<!--
-**Anushkaa-Srivastava/Anushkaa-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I m a Third Year ECE student at Motilal Nehru National Institute of Technology, Allahabad.
 
-Here are some ideas to get you started:
+<img align="right" src="https://in.pinterest.com/pin/583568064199003473/" width="450" height="400" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Skills :
+- <b>Languages :</b>  <code>C++</code>, <code>C</code>, <code>Java</code>, `Dart`
+
+- <b>Database Technologies :</b> <code>FireBase</code>, <code>MySQL</code>
+
+- <b>CS Core :</b><code>Data Structures</code>, <code>Algorithms</code>, <code>DBMS</code>, <code>OS</code>, <code>OOP</code>, <code>Networking</code>
+
+## Here are some facts about me :
+
+- 🔭 I’m currently a Student.
+- 🌱 I’m currently learning DSA & Android Dev Technologies.
+- 💬 Ask me about Firebase in Flutter & DSA.
+- ✉️ You can shoot me an email at anushkasrivastavajhs1999@gmail.com!
+- ⚡ Fun fact: I am a good singer.
+  
+## 💹 Github Analytics :
+<p align="center">
+<a href="https://github.com/Anushkaa-Srivastava">
+  <img height="180em" width="400cm" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anushkaa-Srivastava&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anushkaa-Srivastava&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+## 🤝🏻 &nbsp;Connect with Me :
+
+<p align="center">
+<a href="https://www.linkedin.com/in/anushka-srivastava-09b88762/"><img src="https://img.shields.io/badge/-Anushka%20Srivastava%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:anushkasrivastavajhs1999@gmail.com"><img src="https://img.shields.io/badge/-anushkasrivastavajhs1999@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
