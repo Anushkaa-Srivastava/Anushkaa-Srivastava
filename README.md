@@ -2,7 +2,7 @@
 
 I m a Third Year ECE student at Motilal Nehru National Institute of Technology, Allahabad.
 
-<img align="right" src="https://in.pinterest.com/pin/583568064199003473/" width="450" height="400" />
+<img align="right" src="https://in.pinterest.com/pin/583568064199003473.jpg/" width="450" height="400" />
 
 ## ⚙️ Skills :
 - <b>Languages :</b>  <code>C++</code>, <code>C</code>, <code>Java</code>, `Dart`
