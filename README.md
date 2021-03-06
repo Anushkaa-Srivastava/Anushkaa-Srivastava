@@ -18,14 +18,7 @@ I m a Third Year ECE student at Motilal Nehru National Institute of Technology, 
 - 💬 Ask me about Firebase in Flutter & DSA.
 - ✉️ You can shoot me an email at anushkasrivastavajhs1999@gmail.com!
 - ⚡ Fun fact: I am a good singer.
-  
-## 💹 Github Analytics :
-<p align="center">
-<a href="https://github.com/Anushkaa-Srivastava">
-  <img height="180em" width="400cm" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anushkaa-Srivastava&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anushkaa-Srivastava&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+ 
 
 ## 🤝🏻 &nbsp;Connect with Me :
 
